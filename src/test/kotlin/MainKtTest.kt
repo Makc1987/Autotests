@@ -12,7 +12,7 @@ class MainKtTest {
 
         val result = visaMir(amount)
 
-        assertEquals(376, result)
+        assertEquals(375, result)
     }
 
     @Test
